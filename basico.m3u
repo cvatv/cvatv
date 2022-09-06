@@ -1,0 +1,270 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/vtv.png" group-title="Nacionales", MENU PRINCIPAL
+http://30.0.0.32/LC/fondo.jpeg
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/vtv.png" group-title="Nacionales", 2. VTV
+http://30.0.0.25/vtv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/telesistema.png" , 3. TSI
+http://30.0.0.11/tsi.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/telecadena.png"  , 4. TELECADENA 7/4
+http://30.0.0.3/telecadena.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/canal5.png" group-title="Nacionales", 5. CANAL5
+http://30.0.0.3/canal5h.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/canal6.png" group-title="Nacionales", 6. CANAL6
+http://30.0.0.17/canal6h.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/teleceiba.png" group-title="Nacionales", 7. TELECEIBA
+http://30.0.0.5/teleceiba.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nacionales", 8. TNH
+http://30.0.0.9/tnh.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/cvatv.png" group-title="Nacionales", 9. CVATV
+http://30.0.0.17/cvatv.ts
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tentv.png" group-title="Nacionales", 10. TEN
+http://30.0.0.19/ten.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/canal11.png" group-title="Nacionales", 11. CANAL 11
+http://30.0.0.16/canal11h.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/animalplanet.png" group-title="Variados", 12. ANIMAL PLANET
+http://30.0.0.30/animalplanet.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tlc.png" group-title="Peliculas", 13. TLC
+http://30.0.0.26/tlc.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/litoral.jpg" group-title="Nacionales", 14. LITORAL TV
+http://30.0.0.11/litoral.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/spece.png" group-title="Peliculas", 15. SPACE HD
+http://30.0.0.9/space.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tntseries.png" group-title="Entretenimiento", 16. E / DISCOVERY TURBO
+http://30.0.0.14/e.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/megatv.png" group-title="Nacionales", 17. MEGA TV
+http://30.0.0.27/megatv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/axntv.png" group-title="Variados", 18. AXN TV
+http://30.0.0.11/axn.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/pasiones.jpg" group-title="Novelas", 19. PASIONES
+http://30.0.0.3/pasiones.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/id.png" group-title="Variados", 20. ID
+http://30.0.0.30/id.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/discoverychannel.png" group-title="Variados", 21. DISCOVERY CHANNEL
+http://30.0.0.28/discoverychannel.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/aztecauno.png" group-title="Variados", 22. AZTECA UNO / UNIVISION
+http://30.0.0.9/aztecauno.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/unetv.png" group-title="Nacionales", 23. UNE TV
+http://30.0.0.11/unetv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/Telemundo.png" group-title="Variados", 24. TELEMUNDO
+http://30.0.0.3/telemundo.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/holatv.png" group-title="Variados", 25. HOLA TV
+http://30.0.0.10/holatv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/caracol.png" group-title="Variados", 26. CARACOL
+http://30.0.0.5/caracol.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tooncast.jpg" group-title="Infantiles", 27. TOONCAST
+http://30.0.0.5/tooncast.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/disneyjunior.jpg" group-title="variados", 28. THEATER /MAS CHIC
+http://30.0.0.19/theater.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/disneychanel.jpg" group-title="Infantiles", 29. DISNEY CHANNEL
+http://30.0.0.3/disneychannel.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/babytv.jpg" group-title="Infantiles", 30. BABY TV
+http://30.0.0.26/babytv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/nickjr.png" group-title="Infantiles", 31. NICK JR
+http://30.0.0.5/nickjr.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/disneydx.jpg" group-title="Infantiles", 32. DISNEY JUNIOR
+http://30.0.0.5/disneyjunior.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/dkids.png" group-title="Infantiles", 33.DISCOVERY KIDS
+http://30.0.0.5/discoverykids.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/boomerang.png" group-title="Infantiles", 34. BOOMERANG
+http://30.0.0.20/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/picosa.png" group-title="Musicales", 35. PICOSA TV
+http://30.0.0.23/picosatv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/mtv.png" group-title="Musicales", 36. CEIBA VISION 36
+http://30.0.0.25/ceibavision.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/45tv.png" group-title="Nacionales", 37. CANAL41 HD
+http://30.0.0.25/canal41.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/amc.png" group-title="Peliculas", 38. AMC
+http://30.0.0.18/amc.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/edn.png" group-title="Nacionales", 39. EDN
+http://30.0.0.18/edn.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/gotv.png" group-title="Nacionales", 40. EXITOSA
+http://30.0.0.19/gotv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tnt.png" group-title="Peliculas", 41. TNT HD
+http://30.0.0.8/tnt.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/citytv.png" group-title="Comedia", 42. STAR COMEDY /FX
+http://30.0.0.24/citytv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/golden.png" group-title="Peliculas", 43. GOLDEN
+http://30.0.0.14/golden.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/goldenedge.png" group-title="Peliculas", 44. CINEMAX
+http://30.0.0.3/goldenedge.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/dhe.jpg" group-title="Peliculas", 45. DHE
+http://30.0.0.15/dhe.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/encore.png" group-title="Peliculas", 46. ENCORE
+http://30.0.0.12/encore.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", 47. SONY HD
+http://30.0.0.26/sony.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", 48. EURO CHANNEL
+http://30.0.0.8/eurochannel.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", 49. A3CINE
+http://30.0.0.8/a3cine.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/hbo.png" group-title="Peliculas", 50. HBO2
+http://30.0.0.14/hboxtreme.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/foxchannel.jpg" group-title="Series", FILM&ARTS
+http://30.0.0.16/foxmovies.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/cnnespanol.jpg" group-title="Noticias", CNN EN ESPANOL
+http://30.0.0.8/cnnenespanol.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tcm.png" group-title="Peliculas", TCM
+http://30.0.0.14/tcm.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/universalstudio.jpg" group-title="Peliculas", UNIVERSAL
+http://30.0.0.21/universal.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/fxc.png" group-title="Series", FOX LIFE
+http://30.0.0.28/fx.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/fa.png" group-title="Series", STAR ACTION
+http://30.0.0.29/foxaction.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/teleprogreso.png" group-title="Nacionales", TELEPROGRESO
+http://30.0.0.24/teleprogreso.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", TNTSPORT
+http://30.0.0.3/tntsport.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tododeportes.png" group-title="Deportes", TDTV
+http://30.0.0.22/tdtv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/foxsport.png" group-title="Deportes", FOX SPORT
+http://30.0.0.5/foxchannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/foxsport2.png" group-title="Deportes", FOX SPORT2
+http://30.0.0.10/foxsport2.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/foxsport3.png" group-title="Deportes", FOXSPORT 3
+http://30.0.0.20/foxsport3.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/espnusa.png" group-title="Deportes", ESPN
+http://30.0.0.13/espn.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/ESPN_2.png" group-title="Deportes", ESPN2
+http://30.0.0.3/espn2.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/espn3.jpg" group-title="Deportes", ESPN3
+http://30.0.0.24/espn3.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/mtv.png" group-title="Musicales", AMERICA SPORTS
+http://30.0.0.27/almagarifuna.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tyc.png" group-title="Deportes", TYC SPORT
+http://30.0.0.25/tycsport.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/canal36.png" group-title="Nacionales", CHOLUSAT SUR
+http://30.0.0.29/cholusat.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/hch.png" group-title="Nacionales", HCH
+http://30.0.0.23/hchtv.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/comediacentral.jpg" group-title="Comedia", COMEDIA CENTRAL
+http://30.0.0.5/comedycentral.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/mtv.png" group-title="Musicales", MTV HITLIST
+http://30.0.0.28/mtvhits.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/paramunt.png" group-title="Peliculas", PARAMOUNT 
+http://30.0.0.12/paramount.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/cinemadinamita.png" group-title="Peliculas", REPETIDO EXITOSA
+http://30.0.0.22/cinemadinamita.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/foxfamily.png" group-title="Peliculas", STAR HITS
+http://30.0.0.16/foxfamily.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/rtespanol.jpg" group-title="Noticias", RT EN ESPANOL
+http://30.0.0.21/rtespanol.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/rtespanol.jpg" group-title="Noticias", CNN US
+http://30.0.0.9/cnnus.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/venevision.png" group-title="Novelas", VENEVISION
+http://30.0.0.15/chocolate.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/guatevision.png" group-title="Variados", GUATEVISION
+http://30.0.0.16/guatevision.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/quehubotv.png" group-title="Nacionales", QHUBO TV
+http://30.0.0.27/qhubotv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/jbn.png" group-title="Nacionales", JBN
+http://30.0.0.12/jbn.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/mayatv.png" group-title="Nacionales", MAYA TV
+http://30.0.0.13/mayatv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/chtv.png" group-title="Nacionales", CHTV
+http://30.0.0.23/chtv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/dtv.png" group-title="Nacionales", DTV
+http://30.0.0.17/dtv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/rtv.jpg" group-title="Nacionales", RTV
+http://30.0.0.23/rtvh.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/lvmtv.png" group-title="Nacionales", LVM
+http://30.0.0.13/lvm.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/h&h.png" group-title="Variados", H&H
+http://30.0.0.28/h&h.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/canal13.jpg" group-title="Variados", CANAL13
+http://30.0.0.31/trece.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/historychannel.jpg" group-title="Entretenimiento", HISTORY CHANNEL
+http://30.0.0.10/historychannel.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/wd.png" group-title="Variados", WORLD DISCOVERY
+http://30.0.0.31/wordldiscovery.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/discoveryturbo.jpg" group-title="Variados", DISCOVERY TURBO
+http://30.0.0.20/discoveryturbo.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/suyapatv.png" group-title="Religioso", SUYAPA TV
+http://30.0.0.12/suyapatv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/ewtv.png" group-title="Religioso", EWTV
+http://30.0.0.21/ewtn.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/evangelicocompleto.jpg" group-title="Religioso", EVANGELIO COMPLETO
+http://30.0.0.13/evangelicompleto.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/enlace.png" group-title="Religioso", ENLACE
+http://30.0.0.31/enlace.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/cm.png" group-title="Religioso", CADENA DEL MILAGRO
+http://30.0.0.29/cadenademilagro.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/ctn.png" group-title="Religioso", CTNi
+http://30.0.0.26/ctni.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/telexitos.jpg" group-title="Variado", GOZY TV
+http://30.0.0.24/telexitos.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/nbc.png" group-title="Noticias", NBC
+http://30.0.0.5/nbc.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/bbcworld.png" group-title="Noticias", BBC NEW
+http://30.0.0.21/bbcworldnew.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/ntn24.png" group-title="Noticias", NTN24
+http://30.0.0.22/ntn24.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/nuestratele.png" group-title="Noticias", NUESTRA TELE
+http://30.0.0.22/nuestratele.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/telesurven.png" group-title="Noticias", TELESUR
+http://30.0.0.18/telesur.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/syfy.jpg" group-title="Variados", SYFY 
+http://30.0.0.20/syfy.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/foodnet.png" group-title="Variados", FOOD NETWORK
+http://30.0.0.30/foodnetword.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/fashion.jpg" group-title="Variados", HD FASHION
+http://30.0.0.31/fashiontv.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/4canal.jpg" group-title="Variados", CANAL4
+http://30.0.0.17/canal4arg.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/canal12elsal.png" group-title="Variados", TELEBASICA
+http://30.0.0.19/canal12s.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/willax.jpg" group-title="Variados", WILLAX
+http://30.0.0.18/willax.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptv.cvahn.com/img/tlbasica.png" group-title="Variados", TELEBASICA REPETIDO
+http://30.0.0.15/telebasica.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", I-SAT TV
+http://30.0.0.27/isat.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", AZTECA7
+http://30.0.0.10/azteca7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", RT USA
+http://30.0.0.30/rtusa.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variados", TNT SERIES
+http://30.0.0./tntseries.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", UNIVISION?
+http://30.0.0.27/?.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", LTV
+http://30.0.0.27/LTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", CARTOON NETWORKS
+http://30.0.0.27/cartoonnet.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", TELEHITS
+http://30.0.0.27/TELEHITS.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", HTV
+http://30.0.0.27/htv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", CINE MEXICANO
+http://30.0.0.27/cinemexicano.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", MTV?
+http://30.0.0.27/mtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", STARZ
+http://30.0.0.27/starz.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", TCM
+http://30.0.0.27/TCM.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", NATIONAL GEOGRAFIC
+http://30.0.0.27/ngeografic.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", AMERICA SPORTS ?
+http://30.0.0.27/asports.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", NATGEO KIDS
+http://30.0.0.27/TELEHITS.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", CUBA VISION
+http://30.0.0.27/cubav.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Variados", STARZ CLASSIC
+http://30.0.0.27/startzclassic.m3u8
+
+
